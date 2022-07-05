@@ -4,6 +4,8 @@
  * @return {number}
  */
 
+// slice와 substring 중 runtime은 substring이 빠르기 때문에 substring 사용
+
 var strStr = function(haystack, needle) {
     if(needle === 0) return 0;
     
