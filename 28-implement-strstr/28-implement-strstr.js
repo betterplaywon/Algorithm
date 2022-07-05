@@ -9,7 +9,7 @@ var strStr = function(haystack, needle) {
     
     for(let i = 0; i < haystack.length; i++) {
         if(haystack[i] === needle[0]) {
-           const cutHaystack = haystack.slice(i, i+needle.length);
+           const cutHaystack = haystack.substring(i, i+needle.length);
             if(cutHaystack === needle) {
                 return i;
             }
