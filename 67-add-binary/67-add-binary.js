@@ -10,6 +10,6 @@
 var addBinary = function(a, b) {
      const aBigInt = `0b${a}`
   const bBigInt = `0b${b}`
-  const sum = BigInt(aBigInt) + BigInt(bBigInt)
-  return sum.toString(2)
+  const result = BigInt(aBigInt) + BigInt(bBigInt)
+  return result.toString(2)
 };
