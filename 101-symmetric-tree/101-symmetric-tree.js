@@ -11,15 +11,15 @@
  * @return {boolean}
  */
 
-const isSymmetricLeftRight = (left, right) => {
+const isMirrorTreeNode = (left, right) => {
     if(left===null && right===null) return true;
     if((left !== null && right === null) || (left === null && right !== null)) return false;
     if(left.val !== right.val) return false;
     
-    return isSymmetricLeftRight(left.left, right.right) && isSymmetricLeftRight(left.right, right.left);
+    return isMirrorTreeNode(left.left, right.right) && isMirrorTreeNode(left.right, right.left);
 }
 
 var isSymmetric = function(root) { 
   if(!root) return true;
-    return isSymmetricLeftRight(root.left, root.right);
+    return isMirrorTreeNode(root.left, root.right);
 }
