@@ -17,8 +17,10 @@ const nodeHeightCheck = (node) => {
     const left = nodeHeightCheck(node.left);
     const right = nodeHeightCheck(node.right);
     
-  if(left === -1 || right === -1 || Math.abs(left - right) > 1){
-      return -1;
+  if(left === false || right === false || Math.abs(left - right) > 1) {
+      //unbalanced, call stack 타고 올라가서 최종적으로 -1 return 한다. 
+      
+      return false;
   }
    return Math.max(left, right) + 1
 }
@@ -26,5 +28,5 @@ const nodeHeightCheck = (node) => {
 var isBalanced = function(root) {
     if(root === null) return true;
     
-   return nodeHeightCheck(root) !== -1
+   return nodeHeightCheck(root) !== false
 };
