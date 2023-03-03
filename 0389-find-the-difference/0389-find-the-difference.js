@@ -8,9 +8,11 @@
      
     const sArray = s.split('').sort();
     const tArray = t.split('').sort();
+     let result;
    for(let i = 0; i < t.length; i++) {
       if(sArray[i] !== tArray[i]) {
-          return tArray[i];
+          result = tArray[i];
+          return result;
       }
    }
 };
