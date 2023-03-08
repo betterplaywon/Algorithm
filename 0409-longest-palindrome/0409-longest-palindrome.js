@@ -4,20 +4,18 @@
  */
 var longestPalindrome = function(s) {
     
-    const map = new Map();
+    const set = new Set();
     let result = 0;
     
-    for(let i=0; i < s.length; i++) {
-      if(map.has(s[i])) {
+       for(let i=0; i < s.length; i++) {
+      if(set.has(s[i])) {
           result += 2;
-          map.delete(s[i]);
+          set.delete(s[i]);
       } else {
-          map.set(s[i]);
+          set.add(s[i]);
       }
     }
     
-    if(map.size > 0) result++;
-    
+    if(set.size > 0) result++;
     return result;
-    
 };
