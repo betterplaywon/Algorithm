@@ -4,8 +4,6 @@
  */
 var findMaxConsecutiveOnes = function(nums) {
     
-    if(nums[0] === 1 && nums.length === 1) return 1;
-    
     let newNum = 0;
     let maxNum = 0;
     
