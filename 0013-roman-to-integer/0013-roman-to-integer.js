@@ -18,13 +18,10 @@ var romanToInt = function(s) {
     for(let i=0; i<s.length; i++) {
         let now = romanMap[s[i]];
         let next = romanMap[s[i+1]];
-      
-          console.log('바깥 i: ',i);
         
         if(now<next) {
             sum+=next-now;
             i++;
-            console.log('for문 내부 i: ',i);
         } else {
             sum+=now;
         }
