@@ -2,25 +2,13 @@
  * @param {number[]} nums
  * @return {number}
  */
-
 var removeDuplicates = function(nums) {
-     if(!nums) return 0;
+    // 새로운 배열에 추가 금지
+    // index 문제가 발생할 땐 역순으로 접근해보기
     
-    for(let i =0; i < nums.length; i++) {
+    for(let i=nums.length-1; i>0;i--) {
         if(nums[i] === nums[i-1]) {
-           result = nums.splice(i,1);
-            i--;
+        nums.splice(i,1);
         }
-    }    
-}
-
-
-// var removeDuplicates = function(nums) {
-//     if(!nums) return 0;
-    
-//     const filteringNums = nums.filter((num,idx) => {
-//        return nums.indexOf(num) === idx;
-//     });
-    
-//     return filteringNums; // 결과는 맞지만 underscore 추가가 안되어 error 발생?
-// };
+    }
+};
