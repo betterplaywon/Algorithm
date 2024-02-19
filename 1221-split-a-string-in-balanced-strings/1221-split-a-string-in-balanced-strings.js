@@ -7,11 +7,7 @@ var balancedStringSplit = function(s) {
     let output = 0;
     
     for(let i=0; i<s.length; i++) {
-        if(s[i] === 'R') {
-            count++;
-        } else {
-            count--;
-        }
+       s[i] === 'R' ? count++ : count--;
         count === 0 ? output++ : output;
     }
    return output;
