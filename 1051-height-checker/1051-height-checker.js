@@ -3,14 +3,8 @@
  * @return {number}
  */
 var heightChecker = function(heights) {
-    
-    let output = 0;
-    const ascending = [...heights].sort((a,b)=> a-b);
-    
-    for(let i=0; i< heights.length; i++) {
-        if(heights[i] !== ascending[i]) {
-            output++;
-        }
-    }
-    return output;
+    let count = 0;
+    const expected = [...heights].sort((a,b)=> a-b);
+    const mapping = expected.map((expectedNum,idx)=> expectedNum !== heights[idx] && count++);
+ return count;
 };
