@@ -5,13 +5,11 @@
 var toGoatLatin = function(sentence) {
     
     const arr = ['a', 'e', 'i', 'o', 'u'];
-    const a = sentence.split(' ');
-    let ending = 'a';
-    let w = '';
+    const dividedSentence = sentence.split(' ');
     
-    return a.map((word, i) => arr.includes(word[0].toLowerCase()) ? 
-             [...word, 'ma', ...Array(i + 1).fill('a')].join('') 
+    return dividedSentence.map((word, i) => arr.includes(word[0].toLowerCase()) ? 
+             [...word, 'ma', 'a'.repeat(i+1)].join('') 
              : 
-             [...word.slice(1), word[0], 'ma', ...Array(i + 1).fill('a')].join(''))
+             [...word.slice(1), word[0], 'ma', 'a'.repeat(i+1)].join(''))
         .join(' ');
 };
