@@ -20,7 +20,6 @@ var increasingBST = function(root) {
         traverse(root.left);
         node.right = root;
         node = node.right;
-        console.log(node.right);
         node.left = null;
         traverse(root.right);
     }
