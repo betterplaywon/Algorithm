@@ -13,7 +13,7 @@ var evenOddBit = function(n) {
             even+=1;
         } else if(num === 1 && index % 2 === 1){
             odd+=1;
-        }
+        };
     })
     return [even, odd];
 };
