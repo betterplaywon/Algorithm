@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
+| [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
 |  |
@@ -16,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
+| [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,4 +26,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
+| [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
