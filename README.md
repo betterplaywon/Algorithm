@@ -39,16 +39,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -59,4 +62,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
