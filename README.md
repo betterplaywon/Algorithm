@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/betterplaywon/Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/betterplaywon/Algorithm/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
 ## Sorting
@@ -66,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/1005-univalued-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/betterplaywon/Algorithm/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 <!---LeetCode Topics End-->
