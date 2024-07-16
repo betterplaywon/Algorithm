@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
+| [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/betterplaywon/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/betterplaywon/Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
+| [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 ## Two Pointers
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/betterplaywon/Algorithm/tree/master/0733-flood-fill) |
+| [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 ## Tree
 |  |
@@ -86,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/betterplaywon/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Counting
+|  |
+| ------- |
+| [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 <!---LeetCode Topics End-->
