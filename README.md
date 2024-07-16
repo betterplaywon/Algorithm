@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/betterplaywon/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/betterplaywon/Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/betterplaywon/Algorithm/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 ## Two Pointers
 |  |
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/betterplaywon/Algorithm/tree/master/0733-flood-fill) |
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Tree
 |  |
 | ------- |
@@ -93,4 +96,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 <!---LeetCode Topics End-->
