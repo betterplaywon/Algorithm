@@ -10,17 +10,12 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-
 var isUnivalTree = function(root) {
-    const arr = [];
 
-const traverse = (root) => {
-if(!root) return;
-arr.push(root.val);
-traverse(root.left);
-traverse(root.right);
+const traverse = (root,fixedVal) => {
+    if(!root) return true;
+    if(root.val !== fixedVal) return false;
+    return traverse(root.left,fixedVal) && traverse(root.right,fixedVal);
 }
-traverse(root);
-
-return new Set(arr).size === 1;
+return traverse(root,root.val);
 };
