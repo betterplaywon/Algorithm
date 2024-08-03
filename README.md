@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
