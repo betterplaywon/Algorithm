@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
+| [3468-find-the-encrypted-string](https://github.com/betterplaywon/Algorithm/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
 | ------- |
