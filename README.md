@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1524-string-matching-in-an-array) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
