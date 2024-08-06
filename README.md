@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/betterplaywon/Algorithm/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
 ## Hash Table
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/betterplaywon/Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/betterplaywon/Algorithm/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Tree
