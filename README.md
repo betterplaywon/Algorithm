@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
+| [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betterplaywon/Algorithm/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1449-print-words-vertically](https://github.com/betterplaywon/Algorithm/tree/master/1449-print-words-vertically) |
+| [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -186,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 <!---LeetCode Topics End-->
