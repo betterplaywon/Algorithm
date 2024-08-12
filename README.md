@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/betterplaywon/Algorithm/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/betterplaywon/Algorithm/tree/master/3468-find-the-encrypted-string) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/betterplaywon/Algorithm/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2887-sort-vowels-in-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2887-sort-vowels-in-a-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/betterplaywon/Algorithm/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/betterplaywon/Algorithm/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/betterplaywon/Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/betterplaywon/Algorithm/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
@@ -160,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/betterplaywon/Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/betterplaywon/Algorithm/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
