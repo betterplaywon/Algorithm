@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
 | [0958-sort-array-by-parity-ii](https://github.com/betterplaywon/Algorithm/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/betterplaywon/Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/betterplaywon/Algorithm/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
 ## Tree
 |  |
 | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
+| [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
 ## Matrix
 |  |
 | ------- |
