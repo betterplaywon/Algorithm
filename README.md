@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1293-three-consecutive-odds](https://github.com/betterplaywon/Algorithm/tree/master/1293-three-consecutive-odds) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1449-print-words-vertically](https://github.com/betterplaywon/Algorithm/tree/master/1449-print-words-vertically) |
