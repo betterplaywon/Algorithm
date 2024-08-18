@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/betterplaywon/Algorithm/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -220,5 +223,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [2594-count-pairs-of-similar-strings](https://github.com/betterplaywon/Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 <!---LeetCode Topics End-->
