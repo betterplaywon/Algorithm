@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/betterplaywon/Algorithm/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betterplaywon/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2551-apply-operations-to-an-array](https://github.com/betterplaywon/Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
 ## Greedy
 |  |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2476-check-distances-between-same-letters](https://github.com/betterplaywon/Algorithm/tree/master/2476-check-distances-between-same-letters) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/betterplaywon/Algorithm/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2551-apply-operations-to-an-array](https://github.com/betterplaywon/Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/betterplaywon/Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/betterplaywon/Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/betterplaywon/Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
 ## Matrix
 |  |
