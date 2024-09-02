@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betterplaywon/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betterplaywon/Algorithm/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -255,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/betterplaywon/Algorithm/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/betterplaywon/Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betterplaywon/Algorithm/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
