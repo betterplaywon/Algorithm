@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1449-print-words-vertically](https://github.com/betterplaywon/Algorithm/tree/master/1449-print-words-vertically) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/betterplaywon/Algorithm/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/betterplaywon/Algorithm/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/betterplaywon/Algorithm/tree/master/2551-apply-operations-to-an-array) |
@@ -265,4 +266,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/betterplaywon/Algorithm/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/betterplaywon/Algorithm/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
