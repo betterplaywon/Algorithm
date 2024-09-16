@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/betterplaywon/Algorithm/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/betterplaywon/Algorithm/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/betterplaywon/Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/betterplaywon/Algorithm/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/betterplaywon/Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/betterplaywon/Algorithm/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
@@ -198,11 +199,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/betterplaywon/Algorithm/tree/master/2551-apply-operations-to-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/betterplaywon/Algorithm/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2698-find-the-array-concatenation-value](https://github.com/betterplaywon/Algorithm/tree/master/2698-find-the-array-concatenation-value) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/betterplaywon/Algorithm/tree/master/0733-flood-fill) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/betterplaywon/Algorithm/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/betterplaywon/Algorithm/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Union Find
 |  |
