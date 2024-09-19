@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betterplaywon/Algorithm/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/betterplaywon/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/betterplaywon/Algorithm/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/betterplaywon/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/betterplaywon/Algorithm/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/betterplaywon/Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/betterplaywon/Algorithm/tree/master/2487-optimal-partition-of-string) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betterplaywon/Algorithm/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/betterplaywon/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/betterplaywon/Algorithm/tree/master/2331-intersection-of-multiple-arrays) |
@@ -275,4 +278,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/betterplaywon/Algorithm/tree/master/2299-merge-nodes-in-between-zeros) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/betterplaywon/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
