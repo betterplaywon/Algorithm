@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/betterplaywon/Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/betterplaywon/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1160-letter-tile-possibilities](https://github.com/betterplaywon/Algorithm/tree/master/1160-letter-tile-possibilities) |
 | [1449-print-words-vertically](https://github.com/betterplaywon/Algorithm/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/betterplaywon/Algorithm/tree/master/1532-reformat-the-string) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
+| [1160-letter-tile-possibilities](https://github.com/betterplaywon/Algorithm/tree/master/1160-letter-tile-possibilities) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
+| [1160-letter-tile-possibilities](https://github.com/betterplaywon/Algorithm/tree/master/1160-letter-tile-possibilities) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/betterplaywon/Algorithm/tree/master/2331-intersection-of-multiple-arrays) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/betterplaywon/Algorithm/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/betterplaywon/Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String Matching
 |  |
