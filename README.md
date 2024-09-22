@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/betterplaywon/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1160-letter-tile-possibilities](https://github.com/betterplaywon/Algorithm/tree/master/1160-letter-tile-possibilities) |
+| [1283-reformat-date](https://github.com/betterplaywon/Algorithm/tree/master/1283-reformat-date) |
 | [1449-print-words-vertically](https://github.com/betterplaywon/Algorithm/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/betterplaywon/Algorithm/tree/master/1532-reformat-the-string) |
