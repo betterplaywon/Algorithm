@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1532-reformat-the-string](https://github.com/betterplaywon/Algorithm/tree/master/1532-reformat-the-string) |
 | [1619-path-crossing](https://github.com/betterplaywon/Algorithm/tree/master/1619-path-crossing) |
 | [1666-make-the-string-great](https://github.com/betterplaywon/Algorithm/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/betterplaywon/Algorithm/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/betterplaywon/Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/betterplaywon/Algorithm/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/betterplaywon/Algorithm/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1720-crawler-log-folder](https://github.com/betterplaywon/Algorithm/tree/master/1720-crawler-log-folder) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/betterplaywon/Algorithm/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/betterplaywon/Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/betterplaywon/Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/betterplaywon/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/betterplaywon/Algorithm/tree/master/1666-make-the-string-great) |
+| [1720-crawler-log-folder](https://github.com/betterplaywon/Algorithm/tree/master/1720-crawler-log-folder) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/betterplaywon/Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/betterplaywon/Algorithm/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
