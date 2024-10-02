@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/betterplaywon/Algorithm/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/betterplaywon/Algorithm/tree/master/1306-minimum-absolute-difference) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/betterplaywon/Algorithm/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
 | [0926-find-and-replace-pattern](https://github.com/betterplaywon/Algorithm/tree/master/0926-find-and-replace-pattern) |
 | [1160-letter-tile-possibilities](https://github.com/betterplaywon/Algorithm/tree/master/1160-letter-tile-possibilities) |
+| [1256-rank-transform-of-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/betterplaywon/Algorithm/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1619-path-crossing](https://github.com/betterplaywon/Algorithm/tree/master/1619-path-crossing) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/betterplaywon/Algorithm/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/betterplaywon/Algorithm/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/betterplaywon/Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/betterplaywon/Algorithm/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/betterplaywon/Algorithm/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
