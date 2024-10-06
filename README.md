@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/betterplaywon/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0733-flood-fill](https://github.com/betterplaywon/Algorithm/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/betterplaywon/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0824-number-of-lines-to-write-string](https://github.com/betterplaywon/Algorithm/tree/master/0824-number-of-lines-to-write-string) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/betterplaywon/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/betterplaywon/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [1503-reducing-dishes](https://github.com/betterplaywon/Algorithm/tree/master/1503-reducing-dishes) |
 ## Bit Manipulation
