@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/betterplaywon/Algorithm/tree/master/0217-contains-duplicate) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
 | [0958-sort-array-by-parity-ii](https://github.com/betterplaywon/Algorithm/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/betterplaywon/Algorithm/tree/master/0217-contains-duplicate) |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betterplaywon/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/betterplaywon/Algorithm/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/betterplaywon/Algorithm/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/betterplaywon/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0824-number-of-lines-to-write-string](https://github.com/betterplaywon/Algorithm/tree/master/0824-number-of-lines-to-write-string) |
