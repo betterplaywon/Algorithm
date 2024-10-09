@@ -4,5 +4,14 @@
  * @return {number}
  */
 var getSum = function(a, b) {
-    return a+b;
+    while(a!==0) {
+        if(a>0) {
+            b++;
+            a--;
+        } else {
+            a++;
+            b--;
+        }
+    }
+    return b;
 };
