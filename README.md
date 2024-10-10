@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/betterplaywon/Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/betterplaywon/Algorithm/tree/master/0268-missing-number) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
 | [0958-sort-array-by-parity-ii](https://github.com/betterplaywon/Algorithm/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/betterplaywon/Algorithm/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/betterplaywon/Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/betterplaywon/Algorithm/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/betterplaywon/Algorithm/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/betterplaywon/Algorithm/tree/master/0829-subdomain-visit-count) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/betterplaywon/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/betterplaywon/Algorithm/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/betterplaywon/Algorithm/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/betterplaywon/Algorithm/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/betterplaywon/Algorithm/tree/master/0747-min-cost-climbing-stairs) |
 | [0824-number-of-lines-to-write-string](https://github.com/betterplaywon/Algorithm/tree/master/0824-number-of-lines-to-write-string) |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/betterplaywon/Algorithm/tree/master/0268-missing-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/betterplaywon/Algorithm/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0924-fair-candy-swap](https://github.com/betterplaywon/Algorithm/tree/master/0924-fair-candy-swap) |
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/betterplaywon/Algorithm/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/betterplaywon/Algorithm/tree/master/0371-sum-of-two-integers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/betterplaywon/Algorithm/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/betterplaywon/Algorithm/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -293,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/betterplaywon/Algorithm/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/betterplaywon/Algorithm/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/betterplaywon/Algorithm/tree/master/0371-sum-of-two-integers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/betterplaywon/Algorithm/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/betterplaywon/Algorithm/tree/master/2594-count-pairs-of-similar-strings) |
